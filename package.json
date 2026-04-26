@@ -1,11 +1,20 @@
 {
+<<<<<<< HEAD
   "name": "premium-portfolio",
+=======
+  "name": "skand-portfolio",
+>>>>>>> 268aac73c3fe5b0d883e588a5db7a9e055ab2377
   "private": true,
   "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
+<<<<<<< HEAD
     "build": "vite build"
+=======
+    "build": "vite build",
+    "preview": "vite preview"
+>>>>>>> 268aac73c3fe5b0d883e588a5db7a9e055ab2377
   },
   "dependencies": {
     "react": "^18.2.0",
